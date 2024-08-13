@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Arial, sans-serif;
+    font-style: italic;
+}
+.h{
+    margin: 20px;
+    padding: 15px;
+    width: 100vw;
+}
+.h:hover{
+    background-color: gray;
+    width: 350px;
+}
+
+a:link{
+    margin: 10px;
+    padding: 5px;
+    text-decoration: none;
+    position: relative;
+    top: -60px;
+    color: black;
+}
+a:hover{
+    background-color: gray;
+}
+.nav{
+    text-align: end;
+
+}
+.head{
+    background-color:transparent;
+}
+.header{
+    background-image: url(burger.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    width: 100%;
+   
+}
+.head1{
+    position: fixed;
+    top: 0%;
+}
+.img{
+    margin: 50px;
+    padding: 10px;
+}
+
+.about{
+    margin: 30px;
+    padding: 10px;
+    text-align: center;
+    justify-content: center;
+    position: relative;
+    top: -810px;
+    left: 350px;
+}
+.p{
+    
+    position: relative;
+    top: -840px;
+    left: 350px;
+    text-align: center;
+}
+
+.img2{
+    margin: 30px;
+    padding: 10px;
+    position: relative;
+    top: -290px;
+    align-items: end;
+}
+.menu{
+    margin: 30px;
+    padding: 10px;
+    text-align: center;
+    position: relative;
+    top: -1090px;
+    left: 260px;
+
+}
+.contact{
+    margin: 30px;
+    padding: 10px;
+    position: relative;
+    top: -800px;
+}
+.button1:hover{
+    color: gray;
+}
+a:visited{
+    color: black;
+}
